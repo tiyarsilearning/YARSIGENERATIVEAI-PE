@@ -60,7 +60,7 @@ Untuk mengunduh model dari Hugging Face ke Google Colab, kita tidak mengunduh fi
 ---
 
 ### Tahap 3: Menjalankan Praktikum Model Qwen di Google Colab
-1. Unduh file `Praktikum5_Menjalankan_Foundation_Model_Qwen.ipynb` lalu buka di Google Colab. 
+1. Unduh file `Praktikum5_Prompt_Elements.ipynb` lalu buka di Google Colab. 
 2. Aktifkan GPU terlebih dahulu melalui menu **Runtime** -> **Change runtime type** -> pilih **T4 GPU** -> **Save**. 
 3. Jalankan sel pemeriksaan GPU dan instalasi library (`transformers`, `accelerate`, `huggingface_hub`). 
 4. Jalankan sel `login()`. Saat muncul kotak input Token, tempelkan (*paste*) kode token `hf_...` milik Anda lalu tekan Enter / klik tombol Login. 
